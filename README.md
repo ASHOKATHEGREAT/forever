@@ -1,12 +1,23 @@
-# React + Vite
+# Forever - E-commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Forever is a front-end e-commerce web application built with **React, JavaScript, Tailwind CSS, and HTML**.  
+It demonstrates a modern shopping experience with a simple and responsive UI.
 
-Currently, two official plugins are available:
+## Features
+- 🛒 **Navbar** with navigation links  
+- 🎯 **Hero Section** for branding  
+- 🏠 **Home Page** with featured content  
+- 📦 **Product Page** listing available items  
+- 🛍️ **Cart Page** to manage selected products  
+- 💳 **Payment UI** (without backend integration)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- React (Vite)  
+- JavaScript  
+- Tailwind CSS  
+- HTML  
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ASHOKATHEGREAT/forever.git
